@@ -1,7 +1,7 @@
 # Python code to represent LightGBM predictions as a linear combination of training data target values
 # See section A.3 in "Relative Valuation with Machine Learning", Geertsema & Lu (2022)
 
-# Copyright (C) Paul Geertsema 2022
+# Copyright (C) Paul Geertsema and Helen Lu 2022
 
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
