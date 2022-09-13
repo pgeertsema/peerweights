@@ -1,5 +1,5 @@
 # Python code to represent LightGBM predictions as a linear combination of training data target values
-# See section A.3 in "Relative Valuation with Machine Learning", Geertsema & Lu (2022)
+# See section A.3 in "Relative Valuation with Machine Learning", Geertsema & Lu (2022),Journal of Accounting Research (forthcoming)
 
 # Copyright (C) Paul Geertsema and Helen Lu 2022
 
