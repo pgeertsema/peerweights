@@ -305,7 +305,7 @@ for i in range(1, M):
     # (N,N)
 
     # equation 19
-    g[i] = v.T @ G[i]
+    g[i] = v.T @ G[i].T
     g[i]
     g[i].shape
     # (1,N)
